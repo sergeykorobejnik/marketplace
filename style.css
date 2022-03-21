@@ -3337,9 +3337,6 @@ input {
     background: transparent; }
   .popular-2 .product-row {
     width: 100%; }
-  .popular-2 .card-title {
-    padding-left: 0;
-    padding-right: 0; }
   .popular-2 .container {
     -ms-flex-direction: column;
         flex-direction: column; }
